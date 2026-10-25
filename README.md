@@ -5,9 +5,16 @@ A full-stack MERN web application that helps patients book appointments with doc
 **Live demo:** https://medassist-ai-eta.vercel.app
 (The backend runs on Render's free tier, so the first request may take 30-60 seconds to wake up.)
 
-![Home page](./screenshots/home.png)
-![Symptom checker](./screenshots/symptom-checker.png)
-![Dashboard](./screenshots/dashboard.png)
+## Screenshots
+
+![Login](./screenshots/login.png)
+![Register](./screenshots/register.png)
+![Dashboard](./screenshots/dashboard-1.png)
+![Dashboard analytics](./screenshots/dashboard-2.png)
+![Doctors](./screenshots/doctor.png)
+![Symptom checker](./screenshots/symptom-checker-1.png)
+![Symptom checker result](./screenshots/symptom-checker-2.png)
+
 ## Features
 
 - **Authentication**: Register/Login, JWT auth, bcrypt password hashing, forgot/reset password
